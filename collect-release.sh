@@ -13,7 +13,7 @@ if [ -e "$release-done" ]; then
 fi
 
 lxc launch "ubuntu:$release" "$cname" --ephemeral -c limits.cpu=8 -c limits.memory=8GiB ${EXTRA_LXC_ARGS}
-driver_versions=$(lxc exec "$cname" -- sh -c "apt-cache search nvidia-driver | grep nvidia-driver | grep -v -- -open | grep -v -- -server | grep -v -i transition | cut -f1 -d' '")
+driver_versions=$(lxc exec "$cname" -- sh -c "apt-cache search nvidia-driver | grep nvidia-driver | grep -v -i transition | cut -f1 -d' '")
 lxc delete --force "$cname"
 
 echo "-- release $release"

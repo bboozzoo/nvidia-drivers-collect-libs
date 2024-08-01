@@ -17,7 +17,7 @@ DEBIAN_FRONTEND=noninteractive apt install dpkg-dev -y >&2
 driver=$1
 
 apt source "$driver" >&2
-driver_version=$(echo "$driver" | rev | cut  -d- -f1 | rev)
+driver_version=${DRIVER_VERSION-$(echo "$driver" | sed -e 's/-open//' -e '/-server//' | rev | cut  -d- -f1 | rev)}
 binpkglist=$(
     cat nvidia-graphics-drivers-${driver_version}*.dsc | \
         awk '/Package-List:/ { dump=1; next } /^[a-zA-Z].*:/ { if (dump==1) { dump=0; next} } // { if (dump==1) { print $1 } }' | \
