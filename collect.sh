@@ -10,7 +10,7 @@ for release in $RELEASES; do
         echo "---- skipping $release, already done"
         continue
     fi
-    lxc launch "ubuntu:$release" nvidiatest --ephemeral -c limits.cpu=4 -c limits.memory=4GiB
+    lxc launch "ubuntu:$release" nvidiatest --ephemeral -c limits.cpu=8 -c limits.memory=8GiB
     driver_versions=$(lxc exec nvidiatest -- sh -c "apt-cache search nvidia-driver | grep nvidia-driver | grep -v -- -open | grep -v -- -server | grep -v -i transition | cut -f1 -d' '")
     lxc delete --force nvidiatest
 
@@ -24,7 +24,7 @@ for release in $RELEASES; do
            continue
         fi
 
-        lxc launch "ubuntu:$release" nvidiatest --ephemeral -c limits.cpu=4 -c limits.memory=4GiB
+        lxc launch "ubuntu:$release" nvidiatest --ephemeral -c limits.cpu=8 -c limits.memory=8GiB
         lxc exec nvidiatest -- cloud-init status --wait
         echo "--- container ready"
         lxc file push collect-driver.sh nvidiatest/root/collect-driver.sh
