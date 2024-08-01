@@ -12,7 +12,7 @@ if [ -e "$release-done" ]; then
     exit 0
 fi
 
-lxc launch "ubuntu:$release" "$cname" --ephemeral -c limits.cpu=8 -c limits.memory=8GiB
+lxc launch "ubuntu:$release" "$cname" --ephemeral -c limits.cpu=8 -c limits.memory=8GiB ${EXTRA_LXC_ARGS}
 driver_versions=$(lxc exec "$cname" -- sh -c "apt-cache search nvidia-driver | grep nvidia-driver | grep -v -- -open | grep -v -- -server | grep -v -i transition | cut -f1 -d' '")
 lxc delete --force "$cname"
 
@@ -27,7 +27,7 @@ for v in $driver_versions; do
         continue
     fi
 
-    lxc launch "ubuntu:$release" "$cname" --ephemeral -c limits.cpu=8 -c limits.memory=8GiB
+    lxc launch "ubuntu:$release" "$cname" --ephemeral -c limits.cpu=8 -c limits.memory=8GiB ${EXTRA_LXC_ARGS}
     lxc exec "$cname" -- cloud-init status --wait
     echo "--- container ready"
     lxc file push collect-driver.sh "$cname"/root/collect-driver.sh

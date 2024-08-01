@@ -6,5 +6,5 @@ set -e
 RELEASES="18.04"
 
 for release in $RELEASES; do
-    ./collect-release "$release"
+    ./collect-release.sh "$release"
 done
