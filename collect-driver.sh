@@ -5,12 +5,12 @@ set -e
 sed -i -e 's/^# deb-src /deb-src /' /etc/apt/sources.list >&2
 grep 'deb-src' /etc/apt/sources.list >&2
 
-apt update
+apt update >&2
 DEBIAN_FRONTEND=noninteractive apt install dpkg-dev -y >&2
 
 driver=$1
 
-apt source "$driver"
+apt source "$driver" >&2
 driver_version=$(echo "$driver" | rev | cut  -d- -f1 | rev)
 binpkglist=$(
     cat nvidia-graphics-drivers-${driver_version}*.dsc | \
