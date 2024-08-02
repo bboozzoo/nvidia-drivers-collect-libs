@@ -28,5 +28,5 @@ echo "-- binary package list:" $binpkglist >&2
 
 DEBIAN_FRONTEND=noninteractive apt install $binpkglist -y >&2
 for p in $binpkglist; do
-    dpkg -L $p |grep -E '\.so' || true
+    dpkg -L $p |grep -E '\.so' | sort -u || true
 done
