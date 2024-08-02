@@ -9,6 +9,7 @@
 /usr/lib/x86_64-linux-gnu/libcudadebugger.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libcudadebugger.so.550.67
 /usr/lib/x86_64-linux-gnu/libcudadebugger.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libcudadebugger.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libcuda.so
 /usr/lib/x86_64-linux-gnu/libcuda.so.1
 /usr/lib/x86_64-linux-gnu/libcuda.so.390.132
@@ -32,6 +33,7 @@
 /usr/lib/x86_64-linux-gnu/libcuda.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libcuda.so.550.67
 /usr/lib/x86_64-linux-gnu/libcuda.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libcuda.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libEGL_nvidia.so.0
 /usr/lib/x86_64-linux-gnu/libEGL_nvidia.so.390.132
 /usr/lib/x86_64-linux-gnu/libEGL_nvidia.so.390.147
@@ -54,6 +56,7 @@
 /usr/lib/x86_64-linux-gnu/libEGL_nvidia.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libEGL_nvidia.so.550.67
 /usr/lib/x86_64-linux-gnu/libEGL_nvidia.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libEGL_nvidia.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.1
 /usr/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.390.132
 /usr/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.390.147
@@ -76,6 +79,7 @@
 /usr/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.550.67
 /usr/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.2
 /usr/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.390.132
 /usr/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.390.147
@@ -98,6 +102,7 @@
 /usr/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.550.67
 /usr/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.0
 /usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.390.132
 /usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.390.147
@@ -120,6 +125,7 @@
 /usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.550.67
 /usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvcuvid.so
 /usr/lib/x86_64-linux-gnu/libnvcuvid.so.1
 /usr/lib/x86_64-linux-gnu/libnvcuvid.so.390.132
@@ -143,6 +149,7 @@
 /usr/lib/x86_64-linux-gnu/libnvcuvid.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvcuvid.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvcuvid.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvcuvid.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-allocator.so
 /usr/lib/x86_64-linux-gnu/libnvidia-allocator.so.1
 /usr/lib/x86_64-linux-gnu/libnvidia-allocator.so.450.172.01
@@ -162,6 +169,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-allocator.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-allocator.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-allocator.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-allocator.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-api.so.1
 /usr/lib/x86_64-linux-gnu/libnvidia-cbl.so.418.226.00
 /usr/lib/x86_64-linux-gnu/libnvidia-cbl.so.450.172.01
@@ -194,6 +202,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-cfg.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-cfg.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-cfg.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-cfg.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-compiler-next.so.510.108.03
 /usr/lib/x86_64-linux-gnu/libnvidia-compiler.so.390.132
 /usr/lib/x86_64-linux-gnu/libnvidia-compiler.so.390.147
@@ -231,6 +240,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-eglcore.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-eglcore.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-eglcore.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-eglcore.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-egl-gbm.so.1.1.0
 /usr/lib/x86_64-linux-gnu/libnvidia-egl-gbm.so.1.1.1
 /usr/lib/x86_64-linux-gnu/libnvidia-egl-wayland.so.1.0.2
@@ -257,6 +267,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-encode.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-encode.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-encode.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-encode.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-fatbinaryloader.so.390.132
 /usr/lib/x86_64-linux-gnu/libnvidia-fatbinaryloader.so.390.147
 /usr/lib/x86_64-linux-gnu/libnvidia-fatbinaryloader.so.390.157
@@ -284,6 +295,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-fbc.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-fbc.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-fbc.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-fbc.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-glcore.so.390.132
 /usr/lib/x86_64-linux-gnu/libnvidia-glcore.so.390.147
 /usr/lib/x86_64-linux-gnu/libnvidia-glcore.so.390.157
@@ -305,6 +317,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-glcore.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-glcore.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-glcore.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-glcore.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-glsi.so.390.132
 /usr/lib/x86_64-linux-gnu/libnvidia-glsi.so.390.147
 /usr/lib/x86_64-linux-gnu/libnvidia-glsi.so.390.157
@@ -326,6 +339,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-glsi.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-glsi.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-glsi.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-glsi.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-glvkspirv.so.418.226.00
 /usr/lib/x86_64-linux-gnu/libnvidia-glvkspirv.so.450.172.01
 /usr/lib/x86_64-linux-gnu/libnvidia-glvkspirv.so.450.236.01
@@ -344,9 +358,11 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-glvkspirv.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-glvkspirv.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-glvkspirv.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-glvkspirv.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-gpucomp.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-gpucomp.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-gpucomp.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-gpucomp.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-ifr.so
 /usr/lib/x86_64-linux-gnu/libnvidia-ifr.so.1
 /usr/lib/x86_64-linux-gnu/libnvidia-ifr.so.390.132
@@ -383,6 +399,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-ml.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-ml.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-ml.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-ml.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-ngx.so.450.172.01
 /usr/lib/x86_64-linux-gnu/libnvidia-ngx.so.450.236.01
 /usr/lib/x86_64-linux-gnu/libnvidia-ngx.so.450.248.02
@@ -400,6 +417,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-ngx.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-ngx.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-ngx.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-ngx.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-nvvm.so
 /usr/lib/x86_64-linux-gnu/libnvidia-nvvm.so.4
 /usr/lib/x86_64-linux-gnu/libnvidia-nvvm.so.4.0.0
@@ -411,6 +429,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-nvvm.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-nvvm.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-nvvm.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-nvvm.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.1
 /usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.390.132
 /usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.390.147
@@ -433,6 +452,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-opticalflow.so
 /usr/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.1
 /usr/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.418.226.00
@@ -453,17 +473,20 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11-openssl3.so.535.161.08
 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11-openssl3.so.535.171.04
 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11-openssl3.so.535.183.01
 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11-openssl3.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11-openssl3.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11-openssl3.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-pkcs11-openssl3.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11.so.535.161.08
 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11.so.535.171.04
 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11.so.535.183.01
 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-pkcs11.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so
 /usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.1
 /usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.390.132
@@ -487,6 +510,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-rtcore.so.418.226.00
 /usr/lib/x86_64-linux-gnu/libnvidia-rtcore.so.450.172.01
 /usr/lib/x86_64-linux-gnu/libnvidia-rtcore.so.450.236.01
@@ -505,6 +529,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-rtcore.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-rtcore.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-rtcore.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-rtcore.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-tls.so.390.132
 /usr/lib/x86_64-linux-gnu/libnvidia-tls.so.390.147
 /usr/lib/x86_64-linux-gnu/libnvidia-tls.so.390.157
@@ -526,6 +551,7 @@
 /usr/lib/x86_64-linux-gnu/libnvidia-tls.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvidia-tls.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvidia-tls.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvidia-tls.so.560.28.03
 /usr/lib/x86_64-linux-gnu/libnvidia-vulkan-producer.so
 /usr/lib/x86_64-linux-gnu/libnvidia-vulkan-producer.so.470.103.01
 /usr/lib/x86_64-linux-gnu/libnvidia-vulkan-producer.so.470.239.06
@@ -552,6 +578,7 @@
 /usr/lib/x86_64-linux-gnu/libnvoptix.so.545.29.06
 /usr/lib/x86_64-linux-gnu/libnvoptix.so.550.67
 /usr/lib/x86_64-linux-gnu/libnvoptix.so.550.90.07
+/usr/lib/x86_64-linux-gnu/libnvoptix.so.560.28.03
 /usr/lib/x86_64-linux-gnu/nvidia/xorg/libglxserver_nvidia.so
 /usr/lib/x86_64-linux-gnu/nvidia/xorg/libglxserver_nvidia.so.418.226.00
 /usr/lib/x86_64-linux-gnu/nvidia/xorg/libglxserver_nvidia.so.450.172.01
@@ -571,6 +598,7 @@
 /usr/lib/x86_64-linux-gnu/nvidia/xorg/libglxserver_nvidia.so.545.29.06
 /usr/lib/x86_64-linux-gnu/nvidia/xorg/libglxserver_nvidia.so.550.67
 /usr/lib/x86_64-linux-gnu/nvidia/xorg/libglxserver_nvidia.so.550.90.07
+/usr/lib/x86_64-linux-gnu/nvidia/xorg/libglxserver_nvidia.so.560.28.03
 /usr/lib/x86_64-linux-gnu/nvidia/xorg/libglx.so
 /usr/lib/x86_64-linux-gnu/nvidia/xorg/libglx.so.390.132
 /usr/lib/x86_64-linux-gnu/nvidia/xorg/libglx.so.390.147
@@ -602,3 +630,4 @@
 /usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.545.29.06
 /usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.550.67
 /usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.550.90.07
+/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.560.28.03
